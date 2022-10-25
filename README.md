@@ -1,6 +1,6 @@
 # SchottCipher
 
-An encryption cipher created by Jack Schott, converted into a working library by me.
+An encryption cipher created by Jack Schott that I converted into a working Java library.
 
 ## Implementation
 
