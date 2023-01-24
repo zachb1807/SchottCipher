@@ -9,7 +9,7 @@ To implement the cipher in your program, download the JAR file [from the release
 Alternatively, you can clone the code and build the JAR yourself:
 
 ```
-git clone https://github.com/coobird/thumbnailator.git
+git clone https://github.com/zachb1807/SchottCipher.git
 ```
 
 ## Usage
